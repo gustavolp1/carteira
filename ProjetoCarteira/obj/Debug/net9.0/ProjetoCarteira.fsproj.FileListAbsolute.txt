@@ -28,3 +28,12 @@ C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semest
 C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\obj\Debug\net9.0\ProjetoCarteira.pdb
 C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\obj\Debug\net9.0\ProjetoCarteira.genruntimeconfig.cache
 C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\obj\Debug\net9.0\ref\ProjetoCarteira.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Collections.ParallelSeq.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Data.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Data.Csv.Core.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Data.Html.Core.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Data.Http.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Data.Json.Core.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Data.Runtime.Utilities.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Data.WorldBank.Core.dll
+C:\Users\Gustavo Lindenberg\OneDrive\Desktop\Documents\Insper\computacao\7semestre\progfunc\carteira\carteira\ProjetoCarteira\bin\Debug\net9.0\FSharp.Data.Xml.Core.dll

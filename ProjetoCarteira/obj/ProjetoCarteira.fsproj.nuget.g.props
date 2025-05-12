@@ -14,5 +14,7 @@
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\Gustavo Lindenberg\.nuget\packages\fsharp.core\9.0.202</PkgFSharp_Core>
+    <PkgFSharp_Data Condition=" '$(PkgFSharp_Data)' == '' ">C:\Users\Gustavo Lindenberg\.nuget\packages\fsharp.data\6.6.0</PkgFSharp_Data>
+    <PkgFSharp_Collections_ParallelSeq Condition=" '$(PkgFSharp_Collections_ParallelSeq)' == '' ">C:\Users\Gustavo Lindenberg\.nuget\packages\fsharp.collections.parallelseq\1.2.0</PkgFSharp_Collections_ParallelSeq>
   </PropertyGroup>
 </Project>
