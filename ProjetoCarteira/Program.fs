@@ -25,7 +25,6 @@ let runAllCombinations () =
     let outputFile = "./results.csv"
     let totalCombos = combinations 25 allDowTickers
 
-    // Load already processed combinations (for resume)
     let completedCombos =
         if File.Exists(outputFile) then
             let lines = File.ReadLines(outputFile) |> Seq.toList
@@ -54,7 +53,7 @@ let runAllCombinations () =
 
     use sw = new StreamWriter(outputFile, append = true)
     if completed = 0 then
-        sw.WriteLine("Tickers,SharpeRatio,Weights") // write header only once
+        sw.WriteLine("Tickers,SharpeRatio,Weights")
 
     let stopwatch = Stopwatch.StartNew()
     let counter = ref completed

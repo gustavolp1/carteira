@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoCarteira")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d3559516199b995d815cbcda64d9a997cf364b8")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+688f2d5157be1c1657aed570c32c918809f1bd18")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("ProjetoCarteira")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("ProjetoCarteira")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

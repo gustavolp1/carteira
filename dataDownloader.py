@@ -17,8 +17,8 @@ for ticker in tickers:
     df = yf.download(ticker, start=start_date, end=end_date, auto_adjust=False)
 
     if not df.empty:
-        df.columns = df.columns.get_level_values(0)  # flatten multi-level headers
-        df.reset_index(inplace=True)  # make 'Date' a column, not index
+        df.columns = df.columns.get_level_values(0)
+        df.reset_index(inplace=True)
         df.to_csv(f"ProjetoCarteira/data/{ticker}.csv", index=False)
         print(f"✅ Saved: {ticker}.csv")
     else:
